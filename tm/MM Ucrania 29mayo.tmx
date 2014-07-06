@@ -1,0 +1,898 @@
+<?xml version="1.0" ?>
+		<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+		<tmx version="1.1">
+		<header
+		creationtool="MyMemory - mymemory.translated.net"
+		creationtoolversion="Beta"
+		segtype="sentence"
+		o-tmf="TW4Win 2.0 Format"
+		adminlang="EN-US"
+		srclang="ES-MX"
+		datatype="rtf"
+		creationdate="20140615T201409Z"
+		creationid="Translated">
+		<prop type="RTFFontTable">
+		{\fonttbl 
+			{\f1 \fmodern\fprq1 \fcharset0 Courier New;}
+			{\f2 \fswiss\fprq2 \fcharset0 Arial;}
+			{\f3 \froman\fprq2 {\*\panose 02020603050405020304}\fcharset0 Times New Roman;}
+			{\f4 \froman\fprq2 {\*\panose 05050102010706020507}\fcharset2 Symbol;}
+			{\f5 \fnil\fprq2 {\*\panose 05000000000000000000}\fcharset2 Wingdings;}
+			{\f6 \fswiss\fprq2 {\*\panose 020b0506020202030204}\fcharset0 Arial Narrow;}
+			{\f7 \froman\fprq2 \fcharset238 Times New Roman CE;}
+			{\f8 \froman\fprq2 \fcharset204 Times New Roman Cyr;}
+			{\f9 \froman\fprq2 \fcharset161 Times New Roman Greek;}
+			{\f10 \froman\fprq2 \fcharset162 Times New Roman Tur;}
+			{\f11 \froman\fprq2 \fcharset177 Times New Roman (Hebrew);}
+			{\f12 \froman\fprq2 \fcharset178 Times New Roman (Arabic);}
+			{\f13 \froman\fprq2 \fcharset186 Times New Roman Baltic;}
+			{\f14 \froman\fprq2 \fcharset163 Times New Roman (Vietnamese);}
+			{\f15 \fswiss\fprq2 \fcharset238 Arial CE;}
+			{\f16 \fswiss\fprq2 \fcharset204 Arial Cyr;}
+			{\f17 \fswiss\fprq2 \fcharset161 Arial Greek;}
+			{\f18 \fswiss\fprq2 \fcharset162 Arial Tur;}
+			{\f19 \fswiss\fprq2 \fcharset177 Arial (Hebrew);}
+			{\f20 \fswiss\fprq2 \fcharset178 Arial (Arabic);}
+			{\f21 \fswiss\fprq2 \fcharset186 Arial Baltic;}
+			{\f22 \fswiss\fprq2 \fcharset163 Arial (Vietnamese);}
+			{\f23 \fmodern\fprq1 \fcharset238 Courier New CE;}
+			{\f24 \fmodern\fprq1 \fcharset204 Courier New Cyr;}
+			{\f25 \fmodern\fprq1 \fcharset161 Courier New Greek;}
+			{\f26 \fmodern\fprq1 \fcharset162 Courier New Tur;}
+			{\f27 \fmodern\fprq1 \fcharset177 Courier New (Hebrew);}
+			{\f28 \fmodern\fprq1 \fcharset178 Courier New (Arabic);}
+			{\f29 \fmodern\fprq1 \fcharset186 Courier New Baltic;}
+			{\f30 \fmodern\fprq1 \fcharset163 Courier New (Vietnamese);}
+			{\f31 \fswiss\fprq2 \fcharset238 Arial Narrow CE;}
+			{\f32 \fswiss\fprq2 \fcharset204 Arial Narrow Cyr;}
+			{\f33 \fswiss\fprq2 \fcharset161 Arial Narrow Greek;}
+			{\f34 \fswiss\fprq2 \fcharset162 Arial Narrow Tur;}
+			{\f35 \fswiss\fprq2 \fcharset186 Arial Narrow Baltic;}}</prop>
+	<prop type="RTFStyleSheet">
+	{\stylesheet 
+		{\St \s0 {\StN Normal}}
+		{\St \cs1 {\StB \v\f1\fs24\sub\cf12 }{\StN tw4winMark}}
+		{\St \cs2 {\StB \cf4\fs40\f1 }{\StN tw4winError}}
+		{\St \cs3 {\StB \f1\cf11\lang1024 }{\StN tw4winPopup}}
+		{\St \cs4 {\StB \f1\cf10\lang1024 }{\StN tw4winJump}}
+		{\St \cs5 {\StB \f1\cf15\lang1024 }{\StN tw4winExternal}}
+		{\St \cs6 {\StB \f1\cf6\lang1024 }{\StN tw4winInternal}}
+		{\St \cs7 {\StB \cf2 }{\StN tw4winTerm}}
+		{\St \cs8 {\StB \f1\cf13\lang1024 }{\StN DO_NOT_TRANSLATE}}
+		{\St \cs9 \additive\ssemihidden {\StN Default Paragraph Font}}}</prop>
+	</header>
+
+		<body>
+
+		<tu tuid="0" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Untitled</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Untitled</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="1" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T000000Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="2" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Ucrania</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T000000Z" changeid="Wikipedia">
+				<seg>Ukraine</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="3" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>LAS ELECCIONES DEL 25 DE MAYO:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>ELECTIONS MAY 25:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="4" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="5" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>UN PLEBISCITOSANGRIENTODEL Rﾃ烏IMEN DE TRANSICIﾃ窶廸 FASCISTA</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>PLEBISCITOSANGRIENTODEL OF TRANSITION REGIME &quot;N FASCIST</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="6" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="7" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Klitschko (UDAR), Kerry (USA), Poroshenko y Tyahnybok (Svoboda).</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Klitschko (UDAR), Kerry (USA), and Tyahnybok Poroshenko (Svoboda).</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="8" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Milicianos rusófonos de Donetsk masacrados por el fascismo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Russian-speaking Donetsk militiamen massacred by fascism.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="9" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="10" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>“Ahora el régimen está buscando afirmarse golpe tras golpe, midiendo siempre la correlación de fuerzas, considerando siempre que no cuenta con la clase media rusófona……Al pacto con la oligarquía rusófona para mediar con las masas del Este, se suma el pacto con Putin al que el imperialismo ha ya concedido provisionalmente las posiciones tomadas sobre territorio ucraniano.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>&quot;The regime is now looking assert blow after blow, always measuring the correlation of forces, always considering it does not have the Russian-speaking middle class ...... Al pact with the Russian-speaking oligarchy to mediate with the masses of the East, the pact with Putin adds that imperialism has already provisionally granted the positions taken on Ukrainian territory.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="11" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>El acuerdo incluye la postergación del referéndum separatista sobre Donetsk cuestión que ha sido rechazada por las masas con sectores que desean seguir combatiendo también al gobierno de Kiev, demostrando que el campo “pro ruso” está plagado de contradicciones…….Tenemos entonces un régimen de transición, sometido a fuerzas contradictorias y con una fuerte tendencia a consolidar uno plenamente fascista……Lo más probable es la cancelación de las elecciones del 25 de mayo o su transformación en un verdadero plebiscito fascista..….La masacre anticomunista de Odesa y la expulsión del PC del parlamento hace unos días apuntan hacia eso. Nuevamente los sabios de la metafísica escandalizados esperarían un escenario perfecto donde el fascismo toma el poder de un solo golpe o lo hace gradual y linealmente sin zigzagueos, retrocesos ni conflictos internos……Por su parte, el proletariado aún no ha dicho en absoluto su última palabra, aún sigue combatiendo y está ya movilizando también a los obreros de vanguardia de Europa y el mundo”.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The agreement includes the postponement of Donetsk separatist referendum question that has been rejected by the masses sectors also want to continue fighting the government of Kiev, demonstrating that the &quot;pro-Russian&quot; field is riddled with contradictions ....... We then have a system of transition, subject to conflicting forces, with a strong tendency to consolidate one fully fascist ...... Chances are the cancellation of the elections of May 25 and its transformation into a true plebiscite ...... The anti-fascist slaughter of Odessa and PC expulsion of parliament a few days ago are pointing to it. Again the sages of metaphysics offended expect a perfect scenario where fascism took power in one blow or do it gradually and linearly without zigzags, kicks or internal conflicts ...... Meanwhile, the proletariat has not yet said its last at all word, still fighting and you&#39;re also mobilizing the advanced workers of Europe and the world. &quot;</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="12" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Esto fue lo que escribimos el 9 de mayo en el capítuloPerspectivas para una situación abiertade nuestro folleto “La Verdad sobre la Crisis en Ucrania”. Ahora vemos como nuestros pronósticos se han venido confirmando con cada nuevo acontecimiento.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>This is what we wrote on May 9 in a situation abiertade capítuloPerspectivas for our brochure &quot;The Truth About Crisis in Ukraine.&quot; Now we see how our predictions have been confirmed with each new event.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="13" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Contra las criminales ilusiones parlamentarias del reformismo, nosotros afirmamos que el circo electoral del 25 de mayo fue un plebiscito sangriento para legitimar el régimen de transición impuesto con la insurrección fascista del Maidán.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Against criminal illusions of parliamentary reformism, we argue that the electoral circus May 25 was a bloody referendum to legitimize the transition tax regime with fascist insurrection Maidan.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="14" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Midiendo cuidadosamente la correlación de fuerzas, ahora el régimen ha puesto en primer plano a sus agentes bonapartistas mientras envía a sus milicias fascistas acompañar su ofensiva militar contra las heroicas masas del Este.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>By carefully measuring the correlation of forces, the regime has now brought to the fore his Bonapartist agents as he sends his fascist militias accompany its military offensive against the heroic masses of the East.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="15" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>La masacre de Odesa buscó escarmentar a los explotados rusófonos, hacerlos retroceder para luego poder terminar de aniquilarlos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The slaughter of Odessa Russian speakers sought to chasten exploited them back to later finish annihilate.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="16" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Sin embargo, el movimiento anti fascista no solo ha resistido heroicamente sino que se ha radicalizado llevando a fracasos consecutivos cada ataque “final y decisivo” del régimen.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>However, the anti fascist movement has not only resisted heroically but being radicalized consecutive failures each attack &quot;final and decisive&quot; of the regime.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="17" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Esto ha obligado al imperialismo a retroceder y consolidar el intermitente pacto contra revolucionario que ha venido estableciendo con el campo burgués pro ruso poniendo a la cabeza del régimen de transición a un agente bonapartista que promete disciplinar los “extremos políticos” y habla de “conciliación” entre rusófonos y no rusófonos, mientras el ejército bombardea al “extremismo” anti fascista de la mano de Sector de Derecha y su “Batallón del Donbás”.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>This has forced imperialism to retreat and consolidate intermittent pact against revolutionary who has been setting the pro-Russian bourgeois camp putting the head of the regime of transition to a Bonapartist agent promises discipline &quot;political extremes,&quot; and speaks of &quot;conciliation&quot; between Russian speakers and Russian speakers not as the army bombarded the fascist &quot;extremism&quot; anti Sector Hand and Right &quot;Donbas Battalion&quot;.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="18" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Las masas del Este han recibido durante estos días de “primavera electoral”, el frío invernal de la muerte a manos de la ofensiva militar del régimen que se ha cobrado la vida de centenares de milicianos, masacre brutal que ha superado con creces a la de Odesa:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The masses of the East have received during these days of &quot;spring election&quot;, the winter chill of death at the hands of the regime&#39;s military offensive that has claimed the lives of hundreds of militants, brutal slaughter that has far exceeded that of Odessa:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="19" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>“La operación anti terror en Donestsk continuará hasta que todos los terroristas sean destruidos o hasta que ellos se rindan”, ha declarado Alexei Dmitrashkovsky, el vocero militar del gobierno de Kiev.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>&quot;Anti Terror Donestsk operation will continue until all terrorists are destroyed or until they give up,&quot; said Alexei Dmitrashkovsky, the military government spokesman Kiev.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="20" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Este es el significado del consenso político en respaldo de Poroshenko, el candidato vencedor que sostiene este nuevo ardid de guerra del régimen de transición.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>This is the meaning of the political consensus in support of Poroshenko, the winning candidate holding this new trick of war transitional regime.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="21" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Ahora Sector de Derecha y Svoboda anuncian una posible fusión de sus organizaciones, cuestión que confirma plenamente nuestro análisis y termina de echar por tierra todas las estupideces de la izquierda pro europea acerca de un supuesto carácter “moderado” y “parlamentario” de Svoboda.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Right now industry and Svoboda announced a merger of their organizations, an issue that our analysis fully confirms and finishes scupper all the stupid pro-European left about an alleged &quot;moderate&quot; and &quot;parliamentary&quot; Svoboda.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="22" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Simultáneamente, en las elecciones europeas, la “extrema derecha” salió también triunfante con fascistas como los de Amanecer Dorado ubicándose como tercera fuerza política en Grecia, país que además es el primer destino de la migración ucraniana.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Simultaneously, in the European elections, the &quot;extreme right&quot; also came out triumphant with fascist Golden Dawn as ranking as the third political force in Greece, which is also the first destination of Ukrainian migration.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="23" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>La revolución proletaria y la contra revolución fascista se ponen frente a frente nuevamente sobre el marasmo de la profunda crisis del modo de producción capitalista.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The proletarian revolution and counter revolution fascist face each other again on the morass of the profound crisis of the capitalist mode of production.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="24" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Finalmente, la izquierda reformista sigue jugando el mismo rol contra revolucionario que hemos definido claramente en nuestro documento de principios de mayo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Finally, the reformist left still playing the same role against revolutionary who have clearly defined our document in early May.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="25" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>La izquierda pro europea se ha manchado de sangre y oprobio al continuar sosteniendo al régimen de transición fascista silenciando o justificando masacres como la de Odesa o la de Donetsk, mientras que la izquierda pro rusa encabezada por el PC está profundizando su crisis al desenmascararse su cobarde pacifismo y servilismo al pacto de Putin frente a la heroica resistencia armada de las masas anti fascistas del Este, aisladas y traicionadas por toda la izquierda reformista mundial.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The pro-European left has been stained with blood and shame to continue to support the fascist regime transition silencing or justifying massacres like Odessa or Donetsk, while the pro-Russian led by the PC left is deepening its crisis to unmask his cowardly pacifism and servility to Putin pact against the heroic armed resistance of the anti fascist Eastern masses, isolated and betrayed by all the world&#39;s reformist left.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="26" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Estos son pues solo algunos ejes del nuevo artículo que estamos preparando sobre la actual situación abierta en Ucrania y que será publicado próximamente, junto con nuestra polémica definitiva con las principales corrientes internacionales del seudo trotskismo, verdadera sombra del estalinismo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>These are just some axes for the new item you are preparing for the currently open in Ukraine and will be published shortly, and our final major international controversy with the pseudo-Trotskyist current, real shadow of Stalinism situation.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="27" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>¡Viva la resistencia armada de los explotados anti fascistas del Este, por la auto organización y armamento del proletariado minero!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Long live the armed resistance of the exploited anti fascist East, for self-organization and armament of the mining proletariat!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="28" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>¡Abajo el régimen de transición fascista y su pacto y ofensiva reaccionaria contra el proletariado rusófilo y no rusófilo!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Down with the fascist regime transition and its covenant and reactionary offensive against the proletariat and not Russophile Russophile!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="29" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>¡Fuera de Ucrania las bases y tropas contra revolucionarias de Putin!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Out of Ukrainian revolutionary bases and troops against Putin!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="30" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Ucrania</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Ukraine</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="31" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="32" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>¡Que las direcciones del proletariado rompan ya su sometimiento a la oligarquía y al imperialismo y pongan en pie de inmediato un gran frente obrero anti fascista y revolucionario de todos los explotados desde Lvivy Kiev hasta Donetsk y Crimea!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>It addresses the proletariat and break their submission to the oligarchy and imperialism and immediately put up a great worker and anti fascist revolutionary front of all the exploited from Kiev to Donetsk Lvivy and Crimea!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="33" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>¡Por el envío de brigadas obreras internacionales para combatir al fascismo y a las tropas de Putin, desde Grecia, España, Rusia, Libia y desde todos los rincones donde los explotados pasan hambre!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>By sending international workers brigades to fight fascism and Putin troops from Greece, Spain, Russia, Libya and from all corners where the exploited hungry!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="34" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>¡Por el derecho a la autodeterminación nacional de los explotados rusófonos y no rusófonos de Ucrania bajo un Estado Obrero Socialista y Democrático!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>For the right to national self-determination and non-Russian speakers exploited under a Russian-speaking Ukrainian Socialist and Democratic State Worker!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="35" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Ucrania</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Ukraine</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="36" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>27 02 14</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>February 27, 14</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="37" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>PÁGINA 2:(no lleva título, es como una introducción en cursiva==</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>PAGE 2: (there is no title, an introduction is in italics ==</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="38" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Uno de los pilares fundamentales de la política reformista &quot;radical&quot; sobre el fascismo consiste en liquidar cualquier intento serio de definición marxista de esta forma de reacción burguesa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>One of the cornerstones of the &quot;radical&quot; reform policy over fascism is to liquidate any serious attempt to Marxist definition of this form of bourgeois reaction.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="39" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Apoyado en esto, el reformismo puede hundir en su pantano ideológico el programa revolucionario del proletariado frente al fascismo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Supported in this, reformism can sink their ideological swamp in the revolutionary program of the proletariat against fascism.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="40" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Y es que sin una definición exacta, la insurrección fascista puede ser confundida con la revolución proletaria, porque en ambos casos se trata formalmente de un &quot;alzamiento armado de masas&quot;. Igualmente, una milicia fascista puede ser confundida con una simple banda de mercenarios, porque ambos son &quot;hombres armados financiados por el capital&quot;. Un &quot;golpe&quot; fascista puede ser confundido con un golpe bonapartista, porque en ambos casos se trata por la forma de &quot;un alzamiento militar en interés de la burguesía&quot;. Finalmente, el fascismo puede ser confundido con el reformismo, porque ambos son en última instancia &quot;organizaciones políticas al servicio del capital&quot;. Con este confusionismo criminal fue que el estalinismo desarmó al proletariado frente  al fascismo en Polonia y Alemania consumando una traición de repercusiones históricas y universales.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>And is that without a precise definition, fascist insurrection can be confused with the proletarian revolution, because in both cases it is formally an &quot;armed uprising of the masses.&quot; Similarly, a fascist militia can be confused with a simple band of mercenaries, because both are &quot;gunmen financed by capital.&quot; A fascist &quot;coup&quot; can be confused with a Bonapartist coup, because in both cases it is the form of &quot;a military uprising in the interests of the bourgeoisie.&quot; Finally, fascism can be confused with reformism, because both are ultimately &quot;political organizations at the service of capital.&quot; This criminal was that confusion Stalinism disarmed the proletariat against fascism in Poland and Germany consummating a betrayal of historic and universal implications.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="41" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Ahora vemos como los morenistas de la LIT CI siguen con algunas enmiendas el manual estalinista de cómo hacer frente al fascismo o mejor dicho, de cómo capitularle.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Now we see how the CI LIT morenistas continue with some amendments the Stalinist manual how to deal with fascism or rather how capitularle.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="42" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Así, mientras llaman &quot;revolución democrática&quot; a la insurrección fascista del Maidán, ahora dicen que el club lumpen de artes marciales &quot;Oplot&quot; es un partido fascista del campo pro ruso.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>So while called &quot;democratic revolution&quot; to the fascist insurrection Maidan, now say the lumpen martial arts club &quot;Oplot&quot; is a fascist party pro Russian countryside.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="43" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>No menos despreciable es el confucionismo pequeño burgués de los pro rusos del PTS de Argentina, que evitan llamar las cosas por su nombre para eludir las obligaciones revolucionarias que eso implica, pretendiendo con esto proteger su burbuja electoral de la crítica demoledora del trotskismo.Sin embargo, para Ucrania la cuestión nacional es también fundamental y está íntimamente relacionada con la cuestión del fascismo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>No less despicable petty bourgeois Confucianism is the Russian pro PTS of Argentina, which fail to call things by their name to avoid revolutionary obligations that implies pretending with this electoral protect your bubble but devastating critique of trotskismo.Sin , for Ukraine the national question is also critical and is closely related to the question of fascism.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="44" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>LA CUESTIﾃ窶廸 NACIONAL UCRANIANA</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>THE CONCERNED &quot;UKRAINIAN NATIONAL N</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="45" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>(Extraído de “La Verdad sobre la Crisis en Ucrania”)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>(From &quot;The Truth About Crisis in Ukraine&quot;)</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="46" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="47" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Ucrania</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Ukraine</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="48" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Es evidente que la izquierda pro europea y pro rusa están completamente opuestas a la restauración de la dictadura del proletariado y a la expropiación revolucionaria de la burguesía.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Clearly, the pro-European and pro-Russian left are completely opposed to the restoration of the dictatorship of the proletariat and the revolutionary expropriation of the bourgeoisie.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="49" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Solo por esto ya pueden ser calificados de vulgares sirvientes de la burguesía.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Only by this can already be described as vulgar servants of the bourgeoisie.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="50" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Sin embargo, es necesario denunciar además como es que al condenar la lucha revolucionaria por el socialismo fracasan también en mostrarle al proletariado un camino efectivo para la resolución de las tareas democráticas postergadas e incluso para la conquista de las más mínimas demandas. Es aquí donde desnudan ante las amplias masas todo su colaboracionismo y cobardía pequeño burguesa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>However, it is also necessary to report as to condemn the revolutionary struggle for socialism also fail to show the proletariat an effective way to solve the postponed democratic tasks and even conquer the most minimal demands. This is where the broad masses to strip all his collaborationist cowardice and petty bourgeois.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="51" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Esta cuestión es particularmente importante para combatir a sus alas “radicalizadas” que pretenden engañar a la vanguardia llenándose de consignas muy revolucionarias, socialistas e internacionalistas pero que finalmente son pura fraseología vacía que fracasa en plantearle a las masas un camino independiente hacia la revolución permanente, la única que puede resolver las tareas democráticas al combinarlas con las tareas socialistas y que no se detiene hasta el derrocamiento de la burguesía en las principales potencias y en todo el mundo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>This issue is particularly important to combat his &quot;radicalized&quot; wings intended to deceive the very forefront filled with revolutionary, socialist and internationalist slogans are sheer but ultimately empty phraseology fails to raise with the masses an independent path to permanent revolution, alone can solve the democratic tasks when combined with the socialist tasks and does not stop until the overthrow of the bourgeoisie and the major powers worldwide.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="52" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Y es en este sentido que la cuestión nacional, junto con la cuestión del fascismo, cobra en Ucrania una significación extrema para el marxismo revolucionario y el proletariado mundial.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>It is in this sense that the national question, together with the question of fascism in Ukraine takes extreme significance for revolutionary Marxism and the world proletariat.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="53" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Ucrania</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Ukraine</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="54" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Ucrania es hoy una nación constituida a su vez por dos nacionalidades:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Ukraine today is a nation constituted in turn by two nationalities:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="55" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Ucrania</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Ukraine</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="56" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>la “gran minoría” rusófona del Este y Sur, y la mayoría no rusófona del centro y del oeste (incluyendo a pequeñas minorías nacionales como la tártara).</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>the &quot;large minority&quot; of the Russian-speaking east and south, and the non-Russian-speaking majority of central and west (including small national minorities such as tartar).</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="57" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Ya hemos señalado que la minoría rusófona aumentó considerablemente durante décadas, como resultado de la política estalinista de rusificación. Tenemos que partir entonces de las condiciones dejadas por el desarrollo histórico anterior y desde allí buscar y hallar un camino revolucionario para las masas.Bajo su brutal dominio burocrático, el estalinismo transformó la URSS en una verdadera cárcel de naciones:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>We have already noted that the Russian-speaking minority increased significantly for decades, as a result of the Stalinist policy of Russification. We have then from the conditions left by past historical experience and from there seek and find a revolutionary way for his brutal masas.Bajo bureaucratic rule, Stalinism transformed the USSR into a real jail nations:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="58" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>“La burocracia también estranguló y saqueó al pueblo de la Gran Rusia.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>&quot;The bureaucracy also strangled and plundered the people of Great Russia.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="59" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="60" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Pero en las cuestiones ucranianas las cosas se complicaron aún más por la masacre de las esperanzas nacionales.En ninguna otra parte las restricciones, purgas, represiones y, en general, todas las formas de truhanería burocrática asumieron dimensiones tan asesinas como en Ucrania, al intentar aplastar poderosos anhelos de mayor libertad e inde­pendencia profundamente arraigados en las masas.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>But things Ukrainian issues were further complicated by the slaughter of the hopes nacionales.En restrictions elsewhere, purges, repressions and in general, all forms of bureaucratic truancy assumed as killer as dimensions in Ukraine, trying crush powerful yearnings for freedom and independence more deeply rooted in the masses.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="61" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Para la burocracia totalitaria, la Ucrania Soviética se convirtió en una división administrativa de una unidad económica y de una base militar de la URSS.Que no quede duda:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>To the totalitarian bureaucracy, Soviet Ukraine became an administrative division of an economic unit and a military base URSS.Que no mistake:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="62" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Ucrania</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Ukraine</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="63" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>la burocracia de Stalin erige estatuas a la memoria de Shevchenko pero lo hace sólo con el fin de aplastar más minuciosamente al pueblo ucraniano bajo su peso y obligarlo a cantarle himnos a la camarilla violadora del Kremlin en el idioma del Kobzar”(Trotsky, La Cuestión Ucraniana). La burocracia estalinista rusa ejercía su dominio y opresión sobre Ucrania a través de la nomenclatura rusófona de este país.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>bureaucracy of Stalin statues erected to the memory of Shevchenko but does so only in order to more thoroughly crush the Ukrainian people under him and force him to sing hymns to the violating Kremlin clique in the language of Kobzar &quot;(Trotsky, The Question Ukrainian). The Russian Stalinist bureaucracy held sway and oppression of Ukraine through the Russian-speaking nomenclature for this country.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="64" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Esto tuvo como consecuencia que unos fueron más iguales que otros y que para las nacionalidades les fueran asignadas distintas categorías:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>This meant that some were more equal than others and that their nationalities were assigned different categories:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="65" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>si el ciudadano ruso se podía considerar de primera categoría y el ciudadano ucraniano rusófono de segunda, la burocracia estalinista reservó el tercer lugar para los explotados no rusófonos de Ucrania.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>if the Russian citizen could be considered top notch and the second Russian-speaking Ukrainian citizen, the Stalinist bureaucracy third reserved for Russian speakers in Ukraine not exploited.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="66" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Sobre ellos recayó la peor de las opresiones nacionales.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>On them fell the worst national oppression.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="67" creationdate="20140615T201409Z" creationid="MyMemory" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MyMemory" changedate="20140615T201319Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="68" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>La restauración del capitalismo no resolvió en absoluto esta situación sino la agudizó al extremo:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The restoration of capitalism has not solved at all but the situation escalated to the point:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="69" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>se sustituyó la opresión burocrática de Rusia sobre Ucrania por la opresión imperialista sobre estas dos naciones y gracias al pacto con la burocracia ucraniana mutada en burguesía, la opresión de los ucranianos rusófonos sobre los no rusófonos se agravó, porque ahora los viejos privilegios burocráticos fueron transformados en ganancias multimillonarias, mientras que fueron hundidas las condiciones de vida de los trabajadores con los explotados no rusófonos recibiendo la peor parte, especialmente en el campo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>bureaucratic oppression of Russia was replaced on Ukraine by the imperialist oppression of these two nations and through the covenant with the mutated Ukrainian bureaucracy bourgeoisie oppression of the Russian-speaking Ukrainians on non-Russian speakers worsened because now the old bureaucratic privileges were transformed multi-billion dollar profits, were sunk while the living conditions of the exploited workers not getting the brunt of Russian speakers, especially in the countryside.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="70" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>La nueva burguesía ucraniana actuaba como agente cipayo de la dominación imperialista pero para las masas más atrasadas se trataba de la misma casta rusófila en el poder.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The new Ukrainian bourgeoisie acted as agent Sepoy imperialist domination but for the most backward masses was the same rusófila caste in power.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="71" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Los explotados rusófonos por el contrario, fueron tomando conciencia de la opresión del imperialismo sobre Ucrania y en particular sobre su nacionalidad, ya que EEUU y Alemania impulsaron siempre la xenofobia anti rusa desde el campo burgués pro europeo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The exploited Russophone by contrast, were becoming aware of the oppression of imperialism on Ukraine and in particular on their nationality, as the U.S. and Germany have always promoted the anti Russian xenophobia from the pro-European bourgeois camp.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="72" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>De hecho así como Stalin masacró sobre todo a las masas no rusófonas, Hitler hizo igual con las masas rusófonas, y estos acontecimientos están sellados con sangre en la conciencia histórica de los explotados de Ucrania por generaciones.Sobre este escenario fue que se configuraron la izquierda pro rusa y la izquierda pro europea:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>In fact Stalin massacred and especially non-Russian-speaking masses, Hitler did the same with the Russian-speaking masses, and these events are sealed with blood in the historical consciousness of the exploited of Ukraine generaciones.Sobre this scenario was that the left is configured pro-Russian and pro-European left:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="73" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>la primera tenía que desconocer por completo los derechos nacionales de los explotados no rusófonos; la segunda desconocía no solo los derechos nacionales de los explotados rusófonos, sino además el derecho del conjunto de explotados de Ucrania a independizarse del imperialismo yanqui y europeo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>the first was completely unaware that the national rights of the exploited not Russophone; the second unknown not only the national rights of Russian speakers exploited, but also the right of all Ukrainian exploited to independence from European and U.S. imperialism.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="74" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Esta diferencia se debe a que para la izquierda pro europea la única verdadera amenaza sobre la soberanía de Ucrania proviene del “imperialismo ruso” ficticio y no del Occidente colonialista al que sirve. En este sentido, la izquierda “pro rusa” no es agente del inexistente imperialismo ruso, sino del pacto original entre el imperialismo occidental y la oligarquía rusófona de Ucrania asociada a la burguesía rusa. Se trata entonces de dos aspectos de la misma cuestión nacional para Ucrania:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>This difference is because the only true for the pro-European left threat to Ukrainian sovereignty comes from the fictitious &quot;Russian imperialism&quot; and not the colonialist West it serves. In this sense, the left &quot;pro-Russian&quot; is not an agent of Russian imperialism nonexistent, but the original covenant between Western imperialism and Russian-speaking Ukrainian oligarchy associated with the Russian bourgeoisie. It is then to two aspects of the same national question for Ukraine:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="75" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>el derecho a la autodeterminación nacional de los explotados rusófonos y no rusófonos con relación al imperialismo yanqui y europeo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>the right to national self-determination and non-Russian speakers Russophone exploited relative to European and U.S. imperialism.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="76" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>El rol de la izquierda reformista consiste en reivindicar solo un aspecto y desconocer el otro, reconstruyendo sobre el proletariado ucraniano otro “Muro de Berlín” contra revolucionario.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>The role of the reformist left is to claim only one aspect and ignore the other rebuilding on the Ukrainian proletariat another &quot;Berlin Wall&quot; against revolutionary.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="77" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Sobre esta base es que subordinan políticamente al proletariado a un campo u otro de la burguesía.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>On this basis it is politically subordinate the proletariat to one field or another of the bourgeoisie.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="78" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Pero el rol contra revolucionario sobre el proletariado lo están jugando a nivel internacional, echando barro sobre la cuestión ucraniana, revisando el programa marxista para la cuestión nacional y desarmándolo por completo ante el avance del fascismo, cuestión particularmente aguda en Grecia y por lo tanto en Europa y con repercusiones en todo el mundo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>But the counter-revolutionary role of the proletariat are playing internationally, throwing clay on the Ukrainian question, reviewing the Marxist program for the national question and completely disarming before the rise of fascism, particularly acute issue in Greece and therefore in Europe and worldwide impact.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="79" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>Document created with</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>Document created with</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="80" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>wvWare/wvWare version 1.2.4</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>wvWare / wvWare version 1.2.4</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="81" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>&gt;</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>&gt;</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="82" creationdate="20140615T201409Z" creationid="MT!" usagecount="1" lastusagedate="20140615T201409Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-MX"  creationdate="20140615T201409Z" creationid="MT!">
+				<seg>0x01 graphic</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140615T201409Z" creationid="MT!" changedate="20140615T000000Z" changeid="MT!">
+				<seg>0x01 graphic</seg>
+				</tuv>
+				</tu>
+
+</body>
+		</tmx>
