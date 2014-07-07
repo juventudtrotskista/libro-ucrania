@@ -5,6 +5,14 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <tuv lang="ES">
+        <seg>LA VERDAD SOBRE LA CRISIS EN UCRANIA</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T202319Z" creationid="Paolo Bustamante" creationdate="20140707T202319Z">
+        <seg>THE THRUTH ABOUT THE CRISIS ON UKRAINE</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>esto es una prueba</note>
       <tuv lang="ES">
         <seg>¡Por el derecho a la autodeterminación nacional de los explotados rusófonos y no rusófonos de Ucrania bajo un Estado Obrero Socialista!</seg>
@@ -18,8 +26,8 @@
       <tuv lang="ES">
         <seg>¡Por el restablecimiento del socialismo en todos los países ex soviéticos bajo Estados Obreros democráticos!</seg>
       </tuv>
-      <tuv lang="EN" changeid="Carlos" changedate="20140706T005316Z" creationid="Carlos" creationdate="20140706T005316Z">
-        <seg>By the restoration of socialism in all former Soviet countries under democratic workers States!</seg>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T202236Z" creationid="Carlos" creationdate="20140706T005316Z">
+        <seg>For the restoration of socialism in all former Soviet countries under democratic workers States!</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
