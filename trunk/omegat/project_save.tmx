@@ -62,11 +62,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Traduje No obstante como Nevertheless, podria usar Nonetheless o However. Verificar cual es el mas cercano al significado segun las reglas gramticales.</note>
       <tuv lang="ES">
         <seg>No obstante Rusia sigue siendo el principal socio comercial de Ucrania y esto es también lo que el imperialismo busca cambiar a su favor.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T120921Z" creationid="Paolo Bustamante" creationdate="20140708T120921Z">
-        <seg>Nonetheless, Russia remains Ukraine's main trading partner and this is also what the imperialism seeks to change in their favor.</seg>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T121126Z" creationid="Paolo Bustamante" creationdate="20140708T120921Z">
+        <seg>Nevertheless, Russia remains Ukraine's main trading partner and this is also what the imperialism seeks to change in their favor.</seg>
       </tuv>
     </tu>
     <tu>
