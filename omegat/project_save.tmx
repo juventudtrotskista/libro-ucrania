@@ -62,6 +62,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Traducir la frase "que tuvo su remate" correctamente, no se si se utiliza como sinonimo de "fin"	</note>
+      <tuv lang="ES">
+        <seg>Ellos se encargaron no solo de dividir y contener junto al PC, el ascenso obrero de fines de los noventas, sino que jugaron un rol fundamental para la salida de la crisis política desarrollada a principios del siglo XXI y que tuvo su remate en la situación revolucionaria abierta a fines del 2004 (como parte del combate en Serbia, Georgia y luego Kirguistán).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140710T173245Z" creationid="Paolo" creationdate="20140710T173245Z">
+        <seg>They were not only responsible for dividing and contain, alongside the CP, the workers rise of the late nineties, they also played a key role for the exit of the political crisis developed in the early XX century who had his end in the open revolutionary situation in late 2004 (as part of combat in Serbia , Georgia and after Kyrgyzstan).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES">
         <seg>Esta última busca defender la tajada de negocios que aún le quedan del pacto restauracionista;</seg>
       </tuv>
