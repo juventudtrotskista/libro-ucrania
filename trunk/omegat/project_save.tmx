@@ -73,8 +73,8 @@
       <tuv lang="ES">
         <seg>En esta oportunidad el Partido Socialista (PS) impidió que se desataran las fuerzas revolucionarias de las masas no rusófonas,</seg>
       </tuv>
-      <tuv lang="EN" changeid="Paolo" changedate="20140717T040000Z" creationid="Paolo" creationdate="20140717T034101Z">
-        <seg>This time the Socialist Party (PS) prevented that the revolutionary forces of the non-Russian-speaking masses was unleashed.</seg>
+      <tuv lang="EN" changeid="Paolo" changedate="20140717T040657Z" creationid="Paolo" creationdate="20140717T034101Z">
+        <seg>This time the Socialist Party (SP) prevented that the revolutionary forces of the non-Russian-speaking masses was unleashed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131,6 +131,14 @@
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20140710T153703Z" creationid="Paolo" creationdate="20140710T153703Z">
         <seg>This was expressed in a partial and distorted way in the parliamentary and presidential elections of 98 and 99, where the old Communist Party of Ukraine received nearly 11 million votes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Finalmente, el PS no era más que una escisión del PC, salidos ambos de los rangos sobre todo inferiores de la vieja nomenclatura ucraniana.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140717T040653Z" creationid="Paolo" creationdate="20140717T040653Z">
+        <seg>SFinalmente, el PS no era más que una escisión del PC, salidos ambos de los rangos sobre todo inferiores de la vieja nomenclatura ucraniana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -279,6 +287,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       </tuv>
       <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T235551Z" creationid="Paolo Bustamante" creationdate="20140707T235551Z">
         <seg>in agriculture (Kyiv-AtlanticGroup), the metallurgical sector (ArcelorMittal) and energy (ExxonMobil, Chevron)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras el PC contenía al proletariado del este y del sur apoyado en la aristocracia obrera y la burocracia sindical oficial.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140717T040701Z" creationid="Paolo" creationdate="20140717T040643Z">
+        <seg>while the CP contained the proletariat of east and south supported in the labour aristocracy and the official trade union bureaucracy.</seg>
       </tuv>
     </tu>
     <tu>
