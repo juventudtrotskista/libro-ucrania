@@ -65,8 +65,8 @@
       <tuv lang="ES">
         <seg>El rápido y sorpresivo ascenso del fascismo ucraniano es parte precisamente de la ofensiva contra-revolucionaria que se está imponiendo y busca consolidarse en el mundo.</seg>
       </tuv>
-      <tuv lang="EN" changeid="ROBLES" changedate="20140719T195203Z" creationid="ROBLES" creationdate="20140719T195203Z">
-        <seg>The quick and unexpected rise of Ukrainian fascism is part of the offensive against revolutionary that is being imposed and seeks to establish itself in the world.</seg>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T201153Z" creationid="ROBLES" creationdate="20140719T195203Z">
+        <seg>The quick and surprising rise of Ukrainian fascism is part precisely of the offensive counter revolutionary that is being imposed and looks to establish itself in the world.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91,6 +91,14 @@
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20140717T040657Z" creationid="Paolo" creationdate="20140717T034101Z">
         <seg>This time the Socialist Party (SP) prevented that the revolutionary forces of the non-Russian-speaking masses was unleashed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En las elecciones del 2012 Svoboda obtuvo 2 millones de votos (10% del total), con lo que ingresaron por primera vez al parlamento ucraniano como su cuarta bancada.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T201213Z" creationid="ROBLES" creationdate="20140719T201213Z">
+        <seg>Svoboda won 2 million votes (10% of the total), with it entered for the first time to the Ukrainian Parliament as its fourth bench in the 2012 election.</seg>
       </tuv>
     </tu>
     <tu>
