@@ -97,8 +97,24 @@
       <tuv lang="ES">
         <seg>En las elecciones del 2012 Svoboda obtuvo 2 millones de votos (10% del total), con lo que ingresaron por primera vez al parlamento ucraniano como su cuarta bancada.</seg>
       </tuv>
-      <tuv lang="EN" changeid="ROBLES" changedate="20140719T201213Z" creationid="ROBLES" creationdate="20140719T201213Z">
-        <seg>Svoboda won 2 million votes (10% of the total), with it entered for the first time to the Ukrainian Parliament as its fourth bench in the 2012 election.</seg>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T205334Z" creationid="ROBLES" creationdate="20140719T201213Z">
+        <seg>Svoboda won 2 million votes (10% of the total) entered for the first time to the Ukrainian Parliament as its fourth bench in the 2012 election.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Era necesario ponerse en estado de alerta.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T205349Z" creationid="ROBLES" creationdate="20140719T205349Z">
+        <seg>It was necessary to be on alert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Era un síntoma claro que la situación estaba cambiando y era necesario definirla y actuar en consecuencia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T205400Z" creationid="ROBLES" creationdate="20140719T205400Z">
+        <seg>It was a symptom clear that the situation was changing and needed to define it and act accordingly.</seg>
       </tuv>
     </tu>
     <tu>
