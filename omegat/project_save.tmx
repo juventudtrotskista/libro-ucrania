@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ES">
+        <seg>(¡Llegó la hora!), llamaron “revolución naranja” al aborto de la revolución proletaria.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T025225Z" creationid="Paolo" creationdate="20140720T025225Z">
+        <seg>(It Was time!) , called "orange revolution" to abortion of the proletarian revolution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>10 billones de dólares de la Royal Dutch Shell para explotar hidrocarburos en el sur del país.</seg>
       </tuv>
       <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T013831Z" creationid="Paolo Bustamante" creationdate="20140708T013831Z">
@@ -187,6 +195,14 @@
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20140710T153703Z" creationid="Paolo" creationdate="20140710T153703Z">
         <seg>This was expressed in a partial and distorted way in the parliamentary and presidential elections of 98 and 99, where the old Communist Party of Ukraine received nearly 11 million votes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Finalmente el PC retrocedió y el PS como lacayo de la burguesía pro-europea de Yuschenko y Tymoshenko (oligarca del gas), con la juventud de sus partidos unificada en el frente Pora!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T025102Z" creationid="Paolo" creationdate="20140720T025102Z">
+        <seg>Finally, the CP recoiled, and the SP as the lackey of the pro-European bourgeoisie of Yushchenko and Tymoshenko ( gas oligarch), with the youth of their matches in the unified front!: Pora! </seg>
       </tuv>
     </tu>
     <tu>
