@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>En efecto, recogen numerosos votos en las elecciones.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T023611Z" creationid="ROBLES" creationdate="20140731T023611Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>En esta oportunidad el Partido Socialista (PS) impidió que se desataran las fuerzas revolucionarias de las masas no rusófonas,</seg>
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20140717T040657Z" creationid="Paolo" creationdate="20140717T034101Z">
@@ -250,8 +258,8 @@
       <tuv lang="ES">
         <seg>Hemos puesto en guardia sin descanso contra una subestimación del peligro fascista, y no seremos nosotros quienes neguemos ahora ese peligro […]</seg>
       </tuv>
-      <tuv lang="EN" changeid="ROBLES" changedate="20140731T021641Z" creationid="ROBLES" creationdate="20140731T021641Z">
-        <seg>We have put on guard without rest counter an underestimation of the fascist danger, and we will not be us who now deny that danger [...] In fact, they pick up many votes in elections. nosotros quienes neguemos ahora ese peligro […]</seg>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T023521Z" creationid="ROBLES" creationdate="20140731T021641Z">
+        <seg>We have put on guard without rest counter an underestimation of the fascist danger, and we will not be us who now deny that danger [...] In fact, they pick up many votes in elections.</seg>
       </tuv>
     </tu>
     <tu>
