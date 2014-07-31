@@ -661,6 +661,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
         <seg>"PRO-EUROPEAN" Y "PRO-RUSSIAN"</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Tanto el análisis teórico como la rica experiencia histórica del último cuarto de siglo demostraron con igual fuerza que el fascismo es en cada oportunidad el eslabón final de un ciclo político específico que se compone de lo siguiente:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T030315Z" creationid="ROBLES" creationdate="20140731T030315Z">
+        <seg>"Both theoretical analysis and rich historical experience of the last quarter century with equal force showed that fascism is every chance the final link in a specific political cycle consisting of the following:"</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
