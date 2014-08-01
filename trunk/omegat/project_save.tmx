@@ -601,10 +601,18 @@
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>Svoboda se asienta sobre la pequeña-burguesía urbana de occidente y en el campesinado del centro pero también sobre el sector más atrasado del proletariado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T140835Z" creationid="ROBLES" creationdate="20140801T140835Z">
+        <seg>Svoboda sits on the urban petit bourgeoisie of the occident and in the peasantry of the centre but also on most late sector of the proletariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>También fracasa el oportunismo cuando niega que se trate de fascismo por la influencia de éste sobre ciertos sectores de la clase obrera.</seg>
       </tuv>
-      <tuv lang="EN" changeid="ROBLES" changedate="20140801T140354Z" creationid="ROBLES" creationdate="20140801T134849Z">
-        <seg>Also fails the opportunism when it denies that it is fascism by the influence of this on certain sectors of the working class.ñ´pl</seg>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T140851Z" creationid="ROBLES" creationdate="20140801T134849Z">
+        <seg>Also fails the opportunism when it denies that it is fascism by the influence of this on certain sectors of the working class.</seg>
       </tuv>
     </tu>
     <tu>
