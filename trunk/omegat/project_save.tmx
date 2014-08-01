@@ -440,6 +440,14 @@
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>Los empleados, el personal técnico y administrativo, ciertas capas de funcionarios, constituyeron en el pasado uno de los apoyos importantes de la socialdemocracia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T194801Z" creationid="ROBLES" creationdate="20140801T194801Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>Los explotados no rusófonos del centro y sobre todo de la parte occidental de Ucrania vieron en el estalinismo un abierto enemigo de sus legítimas aspiraciones nacionales, aplastadas en sangre por monarcas europeos, turcos y rusos.</seg>
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20140710T164401Z" creationid="Paolo" creationdate="20140710T164401Z">
@@ -851,6 +859,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140731T021014Z" creationid="ROBLES" creationdate="20140731T021014Z">
         <seg>"The German fascism today represents an infinitely more powerful political force that eight years ago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Los obreros no están en absoluto inmunizados de una vez por todas contra la influencia de los fascistas […]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T194758Z" creationid="ROBLES" creationdate="20140801T194758Z">
+        <seg>"The workers are not immunized one time for all against influence of fascists [...]"Employees, the technical and administrative staff, some layers of officials, were in the last one of the important support of social democracy.</seg>
       </tuv>
     </tu>
     <tu>
