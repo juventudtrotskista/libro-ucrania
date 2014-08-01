@@ -360,6 +360,14 @@
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>La desesperación de la pequeña-burguesía, su “neurosis colectiva” la hace presa de los mayores absurdos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T134024Z" creationid="ROBLES" creationdate="20140801T134024Z">
+        <seg>"The desperation of the petty bourgeoisie, its "collective neurosis" makes the greatest absurdities dam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>La masa fundamental de los fascistas está compuesta de polvareda humana” (Trotsky, Alemania, la clave de la situación internacional).</seg>
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140719T224919Z" creationid="ROBLES" creationdate="20140719T224919Z">
@@ -809,8 +817,8 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       <tuv lang="ES">
         <seg>“Menos Palabras”.</seg>
       </tuv>
-      <tuv lang="EN" changeid="ROBLES" changedate="20140801T133856Z" creationid="ROBLES" creationdate="20140801T133856Z">
-        <seg>'Fewer words'.</seg>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T134033Z" creationid="ROBLES" creationdate="20140801T133856Z">
+        <seg>"Fewer words".</seg>
       </tuv>
     </tu>
     <tu>
