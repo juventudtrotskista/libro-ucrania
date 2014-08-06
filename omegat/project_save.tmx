@@ -583,6 +583,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>NO ME CONVENCE ESTA TRADUCCIÓN	</note>
       <tuv lang="ES">
         <seg>Kiev rechazó la oferta pero pactó con Moscú y la burguesía “pro-rusa” de Ucrania legitimar al régimen de transición fascista con elecciones fraudulentas del que salió ganador el millonario Poroshenko, expresando un importante cambio en la correlación de fuerzas luego del desastre de la masacre fascista de Odesa y de la extraordinaria respuesta revolucionaria del proletariado ucraniano, solo comparable a la España del 36.</seg>
       </tuv>
@@ -612,6 +613,14 @@
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20140806T152902Z" creationid="Paolo" creationdate="20140806T152902Z">
         <seg>The Russian bourgeoisie on the other hand,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La campaña fraudulenta alrededor de la tragedia del avión malayo caído en zona de guerra es con el fin de justificar estos crimines.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T201831Z" creationid="Paolo" creationdate="20140806T201831Z">
+        <seg>The fraudulent campaign around the tragedy of the Malaysian aircraft, fallen in war zone, is in order to justify these crimes.</seg>
       </tuv>
     </tu>
     <tu>
