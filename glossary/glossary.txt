@@ -9,17 +9,5 @@ laundering money	lavando dinero
 stagnation	estancamiento
 puesta en pie	put on its feet
 reivindican	claim / reclaim / defend / make up	Principal Translations
-reivindicar⇒ vtr	(derecho: recuperar, retomar)	reclaim vtr
- 	Reivindicaron el derecho al voto y a la libre expresión.
- 	They reclaimed the right to vote and the right to free expression.
-reivindicar vtr	(defender, argumentar)	defend vtr
- 	Los obreros intentaron reivindicar las razones de su lucha.
- 	The workers tried to defend the reasons for their struggle.
-reivindicarse v prnl	(enmendarse)  (restore relations)	make up vi phrasal
- 	  (regain standing)	redeem yourself, vindicate yourself v expr
- 	  (informal: heal emotional damage)	mend fences vtr + n
- 	Pidió perdón y se reivindicó con la familia.
- 	He asked for forgiveness and made up with the family.
-reivindicar vtr	(autoría: reclamar)	claim vtr
- 	El grupo terrorista reivindicó su responsabilidad en el ataque a la embajada.
- 	The terrorist group claimed responsibility in the embassy attack.
+ reivindicar⇒(derecho: recuperar, retomar)⇒reclaim  - Examples:	Reivindicaron el derecho al voto y a la libre expresión.
+ 	They reclaimed the right to vote and the right to free expression. ///Reivindicar (defender, argumentar)⇒defend 
