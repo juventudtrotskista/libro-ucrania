@@ -375,6 +375,14 @@
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>Estamos luchando con las armas en la mano, por nuestras vidas y las vidas de nuestros seres queridos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153335Z" creationid="Paolo" creationdate="20140806T153335Z">
+        <seg>We fight with weapons in hand, for our lives and the lives of our loved ones. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>Estamos sin embargo, lejos de basar nuestro análisis exclusivamente en el conteo electoral:</seg>
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140731T020539Z" creationid="ROBLES" creationdate="20140731T020539Z">
@@ -500,6 +508,14 @@
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20140720T033159Z" creationid="Paolo" creationdate="20140720T033159Z">
         <seg>It was actually the SP and CP, fundamental parts for the pro-European bourgeois camp closed the policy crisis to their favor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Hacemos un llamamiento a los obreros de los países europeos, pidiendo su ayuda y solidaridad:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153312Z" creationid="Paolo" creationdate="20140806T153312Z">
+        <seg>We appeal to you, the workers of the European countries, asking for your help and solidarity:</seg>
       </tuv>
     </tu>
     <tu>
@@ -717,6 +733,14 @@
       </tuv>
       <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T150321Z" creationid="Paolo Bustamante" creationdate="20140710T150321Z">
         <seg>This is not just about a bourgeois  business dispute but above all an offensive of exploitation, plunder and death at the expense of the Ukrainian masses and that adds to the covenant of capitalist restoration in Cuba and counter-revolutionaries genocides like the one imposed to the masses of Syria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>No tenemos donde retroceder – ¡esta es nuestra tierra!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153323Z" creationid="Paolo" creationdate="20140806T153323Z">
+        <seg>We have nowhere to retreat – this is our land! </seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1042,14 @@ Organizations such as "the Fifth International" and Castro-Chavists as Alan Wood
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES">
+        <seg>ayúdennos a romper la fortaleza del fascismo en Ucrania.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153246Z" creationid="Paolo" creationdate="20140806T153246Z">
+        <seg>help us break the stronghold of fascism in Ukraine. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No pude hallar la traducción exacta para "rica explotación" por lo que puse "wealth exploitation"
 
 La frase: "pero que las inversiones tecnológicas del imperialismo están demostrando que puede ser muy rentable." no es muy entendible ni en español ni en ingles... Podria explicarse mejor en ingles</note>
@@ -1281,8 +1313,8 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       <tuv lang="ES">
         <seg>¡Esta será nuestra victoria común!” (Sindicato independiente de mineros Donetsk.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Paolo" changedate="20140806T153002Z" creationid="Paolo" creationdate="20140806T153002Z">
-        <seg>This will be our common victory!" (Independent trade union of miners from Donetsk.</seg>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153234Z" creationid="Paolo" creationdate="20140806T153002Z">
+        <seg>This will be our common victory!" (Independent Donetsk Miners’ Trade Union</seg>
       </tuv>
     </tu>
     <tu>
