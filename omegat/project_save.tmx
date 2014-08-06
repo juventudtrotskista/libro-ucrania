@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1_1" segtype="sentence" srclang="ES"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="ES"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -115,6 +115,14 @@
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140719T025503Z" creationid="ROBLES" creationdate="20140719T025503Z">
         <seg>THE RISE OF FASCISM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>EL IMPERIALISMO BOMBARDEA UCRANIA</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T035144Z" creationid="Paolo" creationdate="20140806T035144Z">
+        <seg>IMPERIALISM BOMBARDS UKRAINE</seg>
       </tuv>
     </tu>
     <tu>
