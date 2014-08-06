@@ -1,4 +1,4 @@
-﻿glosario	glossary	para activar trabajo en grupo
+glosario	glossary	para activar trabajo en grupo
 ¡Por	For	Para indicar el propósito que persigue algo o alguien. Example: Fight for our rights!.
 industria semi-ligera 	light weight industry
 laundering money	lavando dinero
@@ -8,10 +8,4 @@ laundering money 	lavando dinero
 laundering money	lavando dinero
 stagnation	estancamiento
 puesta en pie	put on its feet
-reivindican	claim / reclaim / defend / make up	Principal Translations////1.reivindicar⇒(derecho: recuperar,retomar)⇒reclaim  - Examples:Reivindicaron el derecho al voto y a la libre expresión.They reclaimed the right to vote and the right to free expression.////2.Reivindicar (defender,argumentar)⇒defen- Example:Los obreros intentaron reivindicar las razones de su lucha.
-The workers tried to defend the reasons for their struggle. // Reivindicarse (enmendarse)  (restore relations)⇒make up -				Example: Pidió perdón y se reivindicó con la familia.
- He asked for forgiveness and made up with 		the family.
-  //
-Additional Translations  
-reivindicar(autoría: reclamar)⇒claim  Example-El grupo 		terrorista reivindicó su responsabilidad en el ataque a la embajada.
- 		The terrorist group claimed responsibility in the embassy attack.
+reivindican	claim / reclaim / defend / make up	Principal Translations////1.reivindicar⇒(derecho: recuperar,retomar)⇒reclaim  - Examples:Reivindicaron el derecho al voto y a la libre expresión.They reclaimed the right to vote and the right to free expression.///2.Reivindicar (defender,argumentar)⇒defend- Example:Los obreros intentaron reivindicar las razones de su luchaThe workers tried to defend the reasons for their struggle. ////3. Reivindicarse (enmendarse)  (restore relations)⇒make up -Example: Pidió perdón y se reivindicó con la familia/He asked for forgiveness and made up with the family.///Additional Translations///4.
