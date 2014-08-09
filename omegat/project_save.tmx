@@ -61,6 +61,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Puse "because of their political support to..." "A causa de su apoyo politico a estos gobierno contrarevolucionarios...."</note>
+      <tuv lang="ES">
+        <seg>Al sostener estos gobiernos contra-revolucionarios, el estalinismo es responsable también de la pérdida de Slaviansk y del callejón sin salida en el que se encuentra la revolución socialista ucraniana.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140809T235416Z" creationid="Paolo" creationdate="20140809T235416Z">
+        <seg>because of their political support to these Governments counter-revolutionaries, Stalinism is responsible also for the loss of Slavyansk and the present dead end of the Ukrainian Socialist Revolution.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES">
         <seg>Apoyado en éstas, el partido “Svoboda” con su frente de milicias “Sector de Derecha” encabezó una insurrección fascista “pro-europea” que condujo al derrocamiento del gobierno bonapartista “pro-ruso” de Yanukovich y la imposición de un régimen de transición fascista.</seg>
       </tuv>
