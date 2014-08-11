@@ -14,3 +14,4 @@ direcciones	leaderships
 pequeño-burgueses	petty-bourgeois	tendríamos que crear las conjugaciones, porque no las reconoce siempre. 
 despidos	dismissals	más usado en este contexto
 soldado raso	footsoldier	más énfasis sobre el bajo rango
+soldados rasos	footsoldiers	http://www.wordreference.com/es/translation.asp?tranword=Footsoldier
