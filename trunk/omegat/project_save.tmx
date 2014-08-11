@@ -61,12 +61,13 @@
       </tuv>
     </tu>
     <tu>
-      <note>Puse "because of their political support to..." "A causa de su apoyo politico a estos gobierno contrarevolucionarios...."</note>
+      <note>Puse "because of their political support to..." "A causa de su apoyo politico a estos gobierno contrarevolucionarios...."
+Sí, me parece bien. </note>
       <tuv lang="ES">
         <seg>Al sostener estos gobiernos contra-revolucionarios, el estalinismo es responsable también de la pérdida de Slaviansk y del callejón sin salida en el que se encuentra la revolución socialista ucraniana.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Paolo" changedate="20140809T235416Z" creationid="Paolo" creationdate="20140809T235416Z">
-        <seg>because of their political support to these Governments counter-revolutionaries, Stalinism is responsible also for the loss of Slavyansk and the present dead end of the Ukrainian Socialist Revolution.</seg>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T222428Z" creationid="Paolo" creationdate="20140809T235416Z">
+        <seg>Because of its political support to these counter-revolutionary Governments, Stalinism is responsible also for the loss of Slavyansk and the present dead end where the Ukrainian Socialist Revolution.</seg>
       </tuv>
     </tu>
     <tu>
