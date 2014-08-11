@@ -1181,11 +1181,12 @@ Organizations such as "the Fifth International" and Castro-Chavists as Alan Wood
       </tuv>
     </tu>
     <tu>
+      <note>Hay varios errores donde se coloca el adjetivo después del sustantivo</note>
       <tuv lang="ES">
         <seg>Sin embargo, el imperialismo en pacto con Putin y la burguesía “pro-rusa” del Este tiene también una política para contener y desorganizar por dentro al frente revolucionario anti-fascista del proletariado.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Paolo" changedate="20140806T205842Z" creationid="Paolo" creationdate="20140806T205842Z">
-        <seg>However, the imperialism in Pact with Putin and the bourgeoisie "pro-Russian" of the East also has a policy to contain and disorganize the inside of the anti-fascist revolutionary front of the proletariat.</seg>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T215304Z" creationid="Paolo" creationdate="20140806T205842Z">
+        <seg>However, imperialism in pact with Putin and the "pro-Russian" bourgeoisie of the East also has a policy to contain and disorganize the inside of the anti-fascist revolutionary front of proletariat.</seg>
       </tuv>
     </tu>
     <tu>
