@@ -329,6 +329,14 @@ Sí, me parece bien. </note>
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>El siguiente comunicado pertenece al Sindicato Independiente de Mineros de Donetsk.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T235052Z" creationid="Carlos" creationdate="20140812T235052Z">
+        <seg>The following statement belongs to Independent Donetsk Miners’ Trade Union.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>El uso de términos como “nazis”, “neo-nazis”, “ultra-derecha”, “extrema derecha”, “skin head” e incluso “neo-fascistas” (¿?) no son más que armas de confusión en manos de la izquierda reformista.</seg>
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140801T134816Z" creationid="ROBLES" creationdate="20140801T134816Z">
@@ -936,6 +944,14 @@ Sí, me parece bien. </note>
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140801T231539Z" creationid="ROBLES" creationdate="20140801T231539Z">
         <seg>Any class can live for a long time without prospect or hope.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>No compartimos el planteamiento político del mismo ya que está identificado con la política estalinista de Frente Popular que hemos venido denunciando sin cansancio.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T235547Z" creationid="Carlos" creationdate="20140812T235547Z">
+        <seg>We don't share its political approach because to identification with the Stalinist policy of Popular Front that we have been denouncing without fatigue.</seg>
       </tuv>
     </tu>
     <tu>
