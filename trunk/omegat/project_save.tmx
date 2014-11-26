@@ -472,6 +472,15 @@ Sí, me parece bien. </note>
       </tuv>
     </tu>
     <tu>
+      <note>ES NECESARIO BUSCAR EN LOS TEXTOS DE TROTSKY EN INGLES LA TRADUCCION EXACTA DE TRIBUNAL OBRERO INTERNACIONAL	</note>
+      <tuv lang="ES">
+        <seg>En todo caso sería necesaria la puesta en pie de un tribunal obrero internacional para juzgar estas serias acusaciones.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20141126T233433Z" creationid="Paolo" creationdate="20141126T233433Z">
+        <seg>In any case the setting up of a worker's international court would be required, to judge these serious allegations.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES">
         <seg>En una de sus declaraciones afirman:</seg>
       </tuv>
