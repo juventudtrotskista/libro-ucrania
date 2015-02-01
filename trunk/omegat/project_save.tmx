@@ -1060,6 +1060,14 @@ Sí, me parece bien. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES">
+        <seg>Las fuerzas naranjas fallaron en hacer un cambio del 2005-2010,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20150201T174059Z" creationid="Paolo" creationdate="20150201T174059Z">
+        <seg>The Orange forces failed to make a change in the 2005-2010,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Se uso para "Escuela de cuadros" "Escuela politica" * Political school, ya que no encuentro la traduccion de cuadro</note>
       <tuv lang="ES">
         <seg>Lo que sí podemos asegurar y tenemos las pruebas a disposición es que el programa pro-europeo de “Oposición de Izquierda” es una verdadera estafa reformista y de este crimen fue autor intelectual Peter Taaffe del CWI y su escuela de cuadros.</seg>
@@ -2045,6 +2053,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       </tuv>
       <tuv lang="EN" changeid="Carlos" changedate="20140811T204402Z" creationid="Paolo" creationdate="20140806T152839Z">
         <seg>while working class families from the East block the routes and confront the fascists to prevent their children die on behalf of the "anti terrorist" dirty campaign of Government.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras que los regionalistas de Yanukovich están diariamente manifestando su incompetencia, corrupción, y violencia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20150201T174442Z" creationid="Paolo" creationdate="20150201T174442Z">
+        <seg>while the regionalists of Yanukovich are daily manifesting their incompetence, corruption and violence..</seg>
       </tuv>
     </tu>
     <tu>
