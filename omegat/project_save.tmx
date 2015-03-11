@@ -2425,6 +2425,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>¡A decir verdad, uno se siente un poco avergonzado al explicar una cosa tan elemental!” (León Trotsky, Por un frente único obrero contra el fascismo).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20150311T080357Z" creationid="Paolo" creationdate="20150311T080357Z">
+        <seg>Indeed, one feels a little embarrassed to explain such a elemental thing!" (León Trotsky, Por un frente único obrero contra el fascismo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>¡Abajo el gobierno de coalición fascista de Svoboda!</seg>
       </tuv>
       <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T223533Z" creationid="Paolo Bustamante" creationdate="20140707T223436Z">
@@ -2637,8 +2645,8 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       <tuv lang="ES">
         <seg>“La mala suerte ha querido que los jefes del partido comunista alemán se hayan colocado en el mismo terreno que la socialdemocracia, contentándose con invertir los signos:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Paolo" changedate="20150201T191200Z" creationid="Paolo" creationdate="20150201T191200Z">
-        <seg>"Bad luck wanted that the German Communist party leaders have been placed on the same grounds that social democracy, contenting itself with invert the signs":</seg>
+      <tuv lang="EN" changeid="Paolo" changedate="20150311T080408Z" creationid="Paolo" creationdate="20150201T191200Z">
+        <seg>"The misfortune consists precisely of the fact that the leaders of the German Communist Party have placed themselves on the same ground as the Social Democracy, only with inverted prefixes:</seg>
       </tuv>
     </tu>
     <tu>
