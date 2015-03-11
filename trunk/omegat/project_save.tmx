@@ -457,6 +457,14 @@ Sí, me parece bien. </note>
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>El reformismo reflexiona de la siguiente manera:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20150311T081937Z" creationid="Paolo" creationdate="20150311T081937Z">
+        <seg>Reformism reflects follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>El rol criminal del PC votando en el parlamento a favor de que sea Yanukovich, como “mal menor”, el que aplaste la insurrección fascista, es exactamente igual al papel jugado por el reformismo en Italia cuando solicitaban la intervención del rey Víctor Manuel III contra Mussolini o la del canciller alemán Brüning contra Hitler.</seg>
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20150201T190410Z" creationid="Paolo" creationdate="20150201T190410Z">
@@ -2427,8 +2435,8 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       <tuv lang="ES">
         <seg>¡A decir verdad, uno se siente un poco avergonzado al explicar una cosa tan elemental!” (León Trotsky, Por un frente único obrero contra el fascismo).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Paolo" changedate="20150311T081149Z" creationid="Paolo" creationdate="20150311T080357Z">
-        <seg>Indeed, one feels a little embarrassed to explain such ABC things!" (León Trotsky, Por un frente único obrero contra el fascismo).</seg>
+      <tuv lang="EN" changeid="Paolo" changedate="20150311T081904Z" creationid="Paolo" creationdate="20150311T080357Z">
+        <seg>Indeed, one it feels a little embarrassed at having to argue over such ABC questions!" (León Trotsky, For a Workers’ United Front Against Fascism).</seg>
       </tuv>
     </tu>
     <tu>
