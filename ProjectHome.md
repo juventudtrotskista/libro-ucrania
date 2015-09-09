@@ -1,0 +1,1 @@
+traducción colectiva de un libro sobre Ucrania desde el marxismo.
